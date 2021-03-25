@@ -1,0 +1,50 @@
+#======================================================================
+
+# CRYSTAL DATA
+
+#----------------------------------------------------------------------
+
+data_VESTA_phase_1
+
+
+_chemical_name_common                  ''
+_cell_length_a                         8.09450
+_cell_length_b                         6.48810
+_cell_length_c                         6.87950
+_cell_angle_alpha                      90
+_cell_angle_beta                       103.98000
+_cell_angle_gamma                      90
+_space_group_name_H-M_alt              'C 2/m'
+_space_group_IT_number                 12
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+   '-x, -y, -z'
+   '-x, y, -z'
+   'x, -y, z'
+   'x+1/2, y+1/2, z'
+   '-x+1/2, -y+1/2, -z'
+   '-x+1/2, y+1/2, -z'
+   'x+1/2, -y+1/2, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_B_iso_or_equiv
+   _atom_site_type_symbol
+   Mg1        1.0     0.000000      0.753720      0.000000     Biso  1.000000 Mg
+   Mg2        1.0     0.323020      0.500000     -0.302680     Biso  1.000000 Mg
+   Mg3        1.0    -0.064820      0.500000     -0.345690     Biso  1.000000 Mg
+   C1         1.0     0.370490      0.321060      0.326720     Biso  1.000000 C
+   C2         1.0     0.231550      0.500000      0.035500     Biso  1.000000 C
+   O1         1.0     0.092560      0.500000     -0.103890     Biso  1.000000 O
+   O2         1.0     0.349030      0.166550      0.428690     Biso  1.000000 O
+   O3         1.0     0.508060      0.309730      0.267290     Biso  1.000000 O
+   O4         1.0     0.365820      0.500000     -0.027540     Biso  1.000000 O
+   O5         1.0     0.351780      0.500000      0.427320     Biso  1.000000 O
+   O6         1.0     0.225000      0.332010      0.158910     Biso  1.000000 O

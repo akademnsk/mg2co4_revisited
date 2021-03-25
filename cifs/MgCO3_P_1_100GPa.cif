@@ -1,0 +1,48 @@
+#======================================================================
+
+# CRYSTAL DATA
+
+#----------------------------------------------------------------------
+
+data_VESTA_phase_1
+
+
+_chemical_name_common                  ''
+_cell_length_a                         5.21100
+_cell_length_b                         5.23800
+_cell_length_c                         7.62800
+_cell_angle_alpha                      70.03000
+_cell_angle_beta                       81.90400
+_cell_angle_gamma                      78.27200
+_space_group_name_H-M_alt              'P -1'
+_space_group_IT_number                 2
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+   '-x, -y, -z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_B_iso_or_equiv
+   _atom_site_type_symbol
+   Mg1        1.0     0.740200      0.255000      0.001800     Biso  1.000000 Mg
+   Mg2        1.0     0.568400      0.466500      0.316600     Biso  1.000000 Mg
+   Mg3        1.0     0.066800      0.182100      0.648300     Biso  1.000000 Mg
+   C1         1.0     0.223000      0.209600      0.027000     Biso  1.000000 C
+   C2         1.0     0.083100      0.335500      0.307700     Biso  1.000000 C
+   C3         1.0     0.439200     -0.021500      0.320600     Biso  1.000000 C
+   O1         1.0     0.124900      0.152900     -0.104400     Biso  1.000000 O
+   O2         1.0     0.009000      0.293900      0.145700     Biso  1.000000 O
+   O3         1.0    -0.118000      0.389500      0.421300     Biso  1.000000 O
+   O4         1.0     0.344000     -0.041000      0.152300     Biso  1.000000 O
+   O5         1.0     0.374900      0.387700     -0.040200     Biso  1.000000 O
+   O6         1.0     0.203900      0.068400      0.414300     Biso  1.000000 O
+   O7         1.0     0.227700      0.523700      0.262300     Biso  1.000000 O
+   O8         1.0     0.543000     -0.261100      0.424300     Biso  1.000000 O
+   O9         1.0     0.610800      0.141300      0.268300     Biso  1.000000 O

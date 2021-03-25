@@ -1,0 +1,138 @@
+	\documentclass[a4paper]{article}
+
+\usepackage[T2A]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[russian,english]{babel}
+\usepackage{amsmath,amsthm,amssymb}
+\usepackage[affil-it]{authblk}
+\usepackage{cite}
+\usepackage{scrextend}
+\usepackage{verbatim}
+\usepackage{paralist}
+\usepackage[mediumspace,mediumqspace,Grey,squaren]{SIunits}
+\addtokomafont{labelinglabel}{\sffamily}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage[dvipsnames]{xcolor}
+% \usepackage{xcolor}
+ \usepackage{changepage} %for adjustwidth command (indenting paragraph}
+\usepackage{SIunits}
+\usepackage{miller}
+\usepackage[version=3]{mhchem}
+\usepackage[left=3cm,right=2cm]{geometry}
+\usepackage{xr}
+\externaldocument{na2co3_exp,na2co3_exp_supp}
+\setlength{\parindent}{5ex}
+\graphicspath{{figures/}}
+
+\newcounter{reviewer}
+\setcounter{reviewer}{0}
+\newcounter{point}
+\setcounter{point}{0}
+
+\renewcommand{\thepoint}{P\,\thereviewer.\arabic{point}}
+\newcommand{\reviewersection}{\stepcounter{reviewer} \bigskip \hrule
+                  \section*{Reviewer \thereviewer}}
+\newenvironment{point}
+   {\refstepcounter{point} \bigskip \noindent {\textbf{Reviewer~Point~\thepoint} } ---\ }
+   {\par }
+
+\newcommand{\shortpoint}[1]{\refstepcounter{point}  \bigskip \noindent 
+	{\textbf{Reviewer~Point~\thepoint} } ---~#1\par }
+
+\newenvironment{reply}
+   {\medskip \noindent \begin{sf}\textbf{Reply}:\  }
+   {\medskip \end{sf}}
+
+\newcommand{\shortreply}[2][]{\medskip \noindent \begin{sf}\textbf{Reply}:\  #2
+	\ifthenelse{\equal{#1}{}}{}{ \hfill \footnotesize (#1)}%
+	\medskip \end{sf}}
+
+\begin{document}
+
+
+
+\title{The formation of Mg-orthocarbonate through the reaction MgCO$_3$ + MgO = Mg$_2$CO$_4$ at Earth's lower mantle $P$--$T$ conditions \\ Manuscript ID: cg-2021-00140r} 
+\author{Pavel N. Gavryushkin, Dinara N. Sagatova, Nursultan Sagatov, Konstantin D. Litasov}
+\date{}
+\maketitle
+
+
+\section*{Response to the reviewers}
+We would like to gratefully thank the reviewers for the careful read and precious suggestions, which make our manuscript more clear.  Changes have been done in accordance with all the suggestions. In the following we address the comments point by point.
+
+\reviewersection
+
+\subsection*{General considerations}
+%%%
+
+
+\begin{point}
+All of the crystal structures models discussed in Figure 1 should be presented in parallel to Figure 2, and there cifs should be provided in SI. The quality of Fig 2 should be improved. In the current version we can not understand the connections of the polyhedrals directly.
+\end{point}
+
+	\begin{reply}
+The figure of olivine-like Mg2CO4-Pnma was added to the Figure 2. 
+As the other structures do not have stability fields we do not present their models, not to overload the figure.
+The cifs are added to SI.
+The quality of the Fig2 have been improved and the figure illustrating connections between polyhedrons have been added.
+As is is problematic to illustrate connections of polyhedrons on the whole structure the interconnections of separate polyhedrons have been shown.
+	\end{reply}
+
+
+\begin{point}
+The previous exploration of Mg2CO4 should be introduced for a little bit more, like the paper Stability of Magnesite under the Lower Mantle Conditions, by Tomoo KATSURA, et al, published on Proc. Japan Acad., 67, Ser. B (1991) and its ref (14).
+\end{point}
+
+	\begin{reply}
+The suggested references have been added. 
+	\end{reply}
+
+
+\reviewersection
+
+\begin{point}
+	 The authors predicted that Mg2CO4-Pnma is isostructural to Mg2SiO4 (forsterite), not Ca2CO4-Pnma, please explain the origin from the structural packing perspective.  
+\end{point}
+
+
+\begin{reply}
+Another predicted structure Mg2CO4-$P2_1/c$ is the analogue of Ca2CO4-Pnma.
+Mg2CO4-$Pnma$ is the lower pressure form is observed only for orthocarboantes with small cation like Mg and it is not observed for orthocarbonates of Ca, Sr, and Ba.
+\end{reply}
+
+\begin{point}
+Electronic structure and chemical bonding is critical for understanding the phases and its connection with others, e.g. Mg2SiO4, Ca2CO4, which is missing in the manuscript.
+\end{point}
+
+\begin{reply}
+The analysis of electronic denisty distribution (Mulliken charges, Baader analysis) of Mg2CO4-Pnma and isostructural to it Mg2SiO4-Pnma has been added.
+\end{reply}
+
+\begin{point}
+The Raman spectra of predicted phases may be added for the later identification in experiments.
+\end{point}
+
+\begin{reply}
+The Raman spectra of the predicted Mg2CO4-Pnma has been added.
+\end{reply}
+
+
+\reviewersection
+
+\begin{point}
+	This is an interesting theoretical paper on Mg orthocarbonate polymorphs. The only point that attracts my attention is why Mg2CO4 follows the olivine-larnite phase transition at high pressure (similar to Ca2SiO4) and not the Mg2SiO4 phase transitions that involve formation of such phases as poirierite, wadsleyite (probably also wadsleyite II) and, finally, ringwoodite (i.e. the spinel-structured phase). Were these phases among the candidates for the high-pressure theoretical phases? From Figure 1, it seems that the answer is 'yes'. But then why the authors refer in Figure 1 to Zn2SiO4 polymorphs and not to Mg2SiO4 polymorphs (ringwoodite, wadsleyite)? If they want to stress geological importance of their findings, it would be reasonable to indicate clearly parallels with the Mg2SiO4 polymophism, which is highly important for natural systems.
+\end{point}
+
+\begin{reply}
+We thank the reviewer for this comment. 
+The strucutures of ringwodite and wadsleyite are isostructureal to the structures of Zn2SiO4 on Figure1. 
+The results of the optimisation does not depend on what model are used for the preparation of Mg2CO4 structures, Zn2SiO4 and Mg2SiO4 gives the same result. 
+In the revised manuscript we have changed Zn2SiO4 on Mg2SiO4 to avoid confusion.
+The enthalpies of Mg2CO4 in the form of poriereite and wadsaleyite have been calculated.
+Both structures are sufficiently metastable.
+
+
+\end{reply}
+
+\end{document}
