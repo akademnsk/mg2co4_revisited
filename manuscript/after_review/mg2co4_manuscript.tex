@@ -139,11 +139,11 @@ Based on these $C_{ij}$ data, we calculated averages of bulk (B) and shear (G) m
 
 The details of DFT, crystal structure predictions, thermodynamic and elastic property calculations, and MD simulations are given in {\it Supporting information}.
 
+In order to obtain the Raman spectra the polarizability tensors for each crystal mode were calculated using the \textit{vasp{\_}raman.py} code \cite{vasp_raman}. The atomic charges were analyzed by the grid-based bader analysis algorithm \cite{bader_1,bader_2}, in which the grid is obtained by decomposition of the charge density by the static self-consistent calculation for the optimized structures.
 FindSym program \cite{stokes2005} and instruments of Phonopy package have been used for the symmetry determination.
 VESTA and ToposPro \cite{vesta,topos} programs have been used for the visualization of the crystal structures and figures preparation.
 The topology of the structures was analysed with ToposPro and Robocrystallographer programs \cite{topos,robocrys}.
-
-%Добавить сюда методику по Бадеру Раману. 
+ 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -286,7 +286,9 @@ The isosurface of the electron desity difference clearly shows the accumulation 
 \begin{figure}[H]
 	\includegraphics[width=0.5\textwidth]{dens_diff.png} \centering
 	\caption{Isosurface of the electron density difference in Mg$_2$CO$_4$-$Pnma$ structure. The isosurface shows those regions in which the electron density is larger than that obtained by overlapping electron densities of non-interacting atoms.} \label{diff}
-%! У Ланиэля еще указывается The isosurface is plotted fora value of 0.2 e A3. Нам тоже нужно указать для какого сечения мы строим распрпделение электронной плотности}
+%! У Ланиэля еще указывается The isosurface is plotted fora value of 0.2 e A3
+%! {У нас в isosurface я ставил значение 0.042, подумал не мало ли это и не стал указывать. У Винклера значение 0.2}
+%! Нам тоже нужно указать для какого сечения мы строим распрпделение электронной плотности.
 \end{figure}
 
 The isostructural character of Mg$_2$CO$_4$-$Pnma$ and Mg$_2$SiO$_4$-$Pnma$ gives a rare possibility for performing the comparison of electron density distribution in the structures of orthocarbonate and orthosilicate.
@@ -315,12 +317,9 @@ Mg$_2$CO$_4$  &       1.724   &       1.745   &       1.914   &       -1.412  & 
 
 \subsubsection*{Melting temperature and seismic properties}
 To compare the melting temerature of Mg-carboante and Mg-orhtocarboantes, we have estimated melting temperatures of Mg-orthocarbonate.
-The obtained values of the Mg$_2$CO$_4$-$Pnma$ melting temperatures at ... GPa, 23.7 GPa, and at 35.5 GPa equal ... K to 2742 K and 2819 K, respectively (Figure \ref{Zcurve}).
-%! Тут надо вместо многоточия вставить значения
-These values are 16-18 \% higher than the experimentally measured melting temperatures of magnesite  and comparable with solidi of silicate rocks under lower mantle P-T conditions \cite{litasov2018_review}.
-%!Тут надо поправить значение в %
-As can be seen from Figure \ref{phdia} the difference in melting temperatures promptly increases with pressure, reaching 500 K at nearly 40 GPa
-%! Ту  нужно поправить давления где разница равна 500 К
+The obtained values of the Mg$_2$CO$_4$-$Pnma$ melting temperatures at 23.7 GPa, 35.5 GPa and 52.2 GPa equal to 2661 K, 2819 K, and 3109 K, respectively (Figure \ref{Zcurve}).
+These values are 14-22 \% higher than the experimentally measured melting temperatures of magnesite and comparable with solidi of silicate rocks under lower mantle P--T conditions \cite{litasov2018_review}.
+As can be seen from Figure \ref{phdia} the difference in melting temperatures promptly increases with pressure, reaching 500 K at nearly 40 GPa.
 
 
 

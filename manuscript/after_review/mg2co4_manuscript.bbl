@@ -220,6 +220,11 @@ Hill, R.
 \newblock \emph{Journal of the Mechanics and Physics of Solids} \emph{11},
   \textbf{1963}, 357 -- 372.
 
+\bibitem{vasp_raman}
+Fonari, A.; Stauffer, S.
+\newblock \emph{vasp_raman.py}.
+\newblock https://github.com/raman-sc/VASP/, \textbf{2013}.
+
 \bibitem{stokes2005}
 Stokes, H.~T.; Hatch, D.~M.
 \newblock {FINDSYM}: program for identifying the space-group symmetry of a

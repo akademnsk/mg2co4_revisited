@@ -1,0 +1,56 @@
+\begin{thebibliography}{1}
+
+\bibitem{vasp1}
+Kresse, G.; Furthm\"uller, J.
+\newblock Efficient iterative schemes for ab initio total-energy calculations
+  using a plane-wave basis set.
+\newblock \emph{Phyical Review B} \emph{54}, \textbf{1996}, 11169--11186.
+
+\bibitem{vasp2}
+Kresse, G.; Furthmüller, J.
+\newblock Efficiency of ab-initio total energy calculations for metals and
+  semiconductors using a plane-wave basis set.
+\newblock \emph{Computational Materials Science} \emph{6}, \textbf{1996}, 15 --
+  50.
+
+\bibitem{pbe}
+Perdew, J.~P.; Burke, K.; Ernzerhof, M.
+\newblock Generalized gradient approximation made simple.
+\newblock \emph{Physical Review Letters} \emph{77}, \textbf{1996}, 3865--3868.
+
+\bibitem{phonopy}
+Togo, A.; Tanaka, I.
+\newblock First principles phonon calculations in materials science.
+\newblock \emph{Scripta Materialia} \emph{108}, \textbf{2015}, 1--5.
+
+\bibitem{hill1952}
+Hill, R.
+\newblock The elastic behaviour of a crystalline aggregate.
+\newblock \emph{Proceedings of the Physical Society. Section A} \emph{65},
+  \textbf{1952}, 349--354.
+
+\bibitem{hill1963}
+Hill, R.
+\newblock Elastic properties of reinforced solids: Some theoretical principles.
+\newblock \emph{Journal of the Mechanics and Physics of Solids} \emph{11},
+  \textbf{1963}, 357 -- 372.
+
+\bibitem{voigt1928}
+Voigt, W.
+\newblock Lehrbuch der kristallphysik (textbook of crystal physics).
+\newblock \emph{BG Teubner, Leipzig und Berlin} \textbf{1928}.
+
+\bibitem{reuss1929}
+Reuss, A.
+\newblock Calculation of the flow limit of solid solution based on the
+  plasticity condition for single crystals.
+\newblock \emph{ZAMM-Journal of Applied Mathematics and Mechanics / Zeitschrift
+  f{\"u}r Applied Mathematics and Mechanics} \emph{9}, \textbf{1929}, 49--58.
+
+\bibitem{belmonte2017}
+Belmonte, D.; Ottonello, G.; Zuccolini, M.~V.
+\newblock Ab initio-assisted assessment of the {C}a{O}-{S}i{O}$_2$ system under
+  pressure.
+\newblock \emph{Calphad} \emph{59}, \textbf{2017}, 12 -- 30.
+
+\end{thebibliography}
