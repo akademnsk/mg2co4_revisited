@@ -222,8 +222,21 @@ Hill, R.
 
 \bibitem{vasp_raman}
 Fonari, A.; Stauffer, S.
-\newblock \emph{vasp_raman.py}.
-\newblock https://github.com/raman-sc/VASP/, \textbf{2013}.
+\newblock \emph{vasp{\_}raman.py}.
+\newblock {https://github.com/raman-sc/VASP/}, \textbf{2013}.
+
+\bibitem{bader_1}
+Tang, W.; Sanville, E.; Henkelman, G.
+\newblock A grid-based bader analysis algorithm without lattice bias.
+\newblock \emph{Journal of Physics: Condensed Matter} \emph{21}, \textbf{2009},
+  084204.
+
+\bibitem{bader_2}
+Henkelman, G.; Arnaldsson, A.; Jónsson, H.
+\newblock A fast and robust algorithm for bader decomposition of charge
+  density.
+\newblock \emph{Computational Materials Science} \emph{36}, \textbf{2006},
+  354--360.
 
 \bibitem{stokes2005}
 Stokes, H.~T.; Hatch, D.~M.
@@ -282,8 +295,9 @@ Lobanov, S.~S.; Dong, X.; Martirosyan, N.~S.; Samtsevich, A.~I.; Stevanovic,
 \bibitem{binck2020_mgco3}
 Binck, J.; Bayarjargal, L.; Lobanov, S.~S.; Morgenroth, W.; Luchitskaia, R.;
   Pickard, C.~J.; Milman, V.; Refson, K.; Jochym, D.~B.; Byrne, P.; et~al.
-\newblock Phase stabilities of mgco 3 and mgco 3-ii studied by raman
-  spectroscopy, x-ray diffraction, and density functional theory calculations.
+\newblock Phase stabilities of {MgCO$_3$} and {MgCO$_3$-II} studied by {R}aman
+  spectroscopy, {X}-ray diffraction, and density functional theory
+  calculations.
 \newblock \emph{Physical Review Materials} \emph{4}, \textbf{2020}, 055001.
 
 \bibitem{litasov2018_review}

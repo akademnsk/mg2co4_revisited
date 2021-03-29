@@ -5,52 +5,52 @@ Reallocating 'name_of_file' (item size: 1) to 4 items.
 The style file: CGD.bst
 Reallocating 'name_of_file' (item size: 1) to 12 items.
 Database file #1: refs_mg2co4.bib
-Repeated entry---line 513 of file refs_mg2co4.bib
+Repeated entry---line 540 of file refs_mg2co4.bib
  : @article{li2020_mgco3
  :                      ,
 I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "laniel2021_sr2co4"
 Warning--I didn't find a database entry for "binck2021_ca2co4"
 Warning--I didn't find a database entry for "sugano1980"
-You've used 46 entries,
+You've used 48 entries,
             2159 wiz_defined-function locations,
-            795 strings with 13477 characters,
-and the built_in function-call counts, 16973 in all, are:
-= -- 1130
-> -- 595
+            806 strings with 13750 characters,
+and the built_in function-call counts, 17655 in all, are:
+= -- 1176
+> -- 615
 < -- 1
-+ -- 229
-- -- 183
-* -- 1130
-:= -- 2126
-add.period$ -- 141
-call.type$ -- 46
-change.case$ -- 49
++ -- 237
+- -- 189
+* -- 1175
+:= -- 2211
+add.period$ -- 147
+call.type$ -- 48
+change.case$ -- 51
 chr.to.int$ -- 0
-cite$ -- 46
-duplicate$ -- 1655
-empty$ -- 1647
-format.name$ -- 225
-if$ -- 3579
+cite$ -- 48
+duplicate$ -- 1723
+empty$ -- 1716
+format.name$ -- 233
+if$ -- 3725
 int.to.chr$ -- 0
-int.to.str$ -- 46
-missing$ -- 456
-newline$ -- 235
-num.names$ -- 46
-pop$ -- 515
+int.to.str$ -- 48
+missing$ -- 474
+newline$ -- 245
+num.names$ -- 48
+pop$ -- 535
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 151
+skip$ -- 157
 stack$ -- 0
-substring$ -- 980
-swap$ -- 1092
+substring$ -- 1019
+swap$ -- 1136
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 111
-width$ -- 48
-write$ -- 509
+while$ -- 115
+width$ -- 50
+write$ -- 531
 (There was 1 error message)
