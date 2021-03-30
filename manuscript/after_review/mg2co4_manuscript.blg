@@ -1,56 +1,57 @@
-This is BibTeX, Version 0.99d
-Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: mg2co4_manuscript.aux
-Reallocating 'name_of_file' (item size: 1) to 4 items.
 The style file: CGD.bst
-Reallocating 'name_of_file' (item size: 1) to 12 items.
 Database file #1: refs_mg2co4.bib
 Repeated entry---line 540 of file refs_mg2co4.bib
  : @article{li2020_mgco3
  :                      ,
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "laniel2021_sr2co4"
-Warning--I didn't find a database entry for "binck2021_ca2co4"
-Warning--I didn't find a database entry for "sugano1980"
-You've used 48 entries,
+I was expecting a `,' or a `}'---line 638 of file refs_mg2co4.bib
+ :   
+ :   year={2021}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--empty year in binck2021_ca2co4
+You've used 50 entries,
             2159 wiz_defined-function locations,
-            806 strings with 13750 characters,
-and the built_in function-call counts, 17655 in all, are:
-= -- 1176
-> -- 615
+            813 strings with 14489 characters,
+and the built_in function-call counts, 18648 in all, are:
+= -- 1215
+> -- 689
 < -- 1
-+ -- 237
-- -- 189
-* -- 1175
-:= -- 2211
-add.period$ -- 147
-call.type$ -- 48
-change.case$ -- 51
++ -- 263
+- -- 213
+* -- 1247
+:= -- 2340
+add.period$ -- 153
+call.type$ -- 50
+change.case$ -- 53
 chr.to.int$ -- 0
-cite$ -- 48
-duplicate$ -- 1723
-empty$ -- 1716
-format.name$ -- 233
-if$ -- 3725
+cite$ -- 51
+duplicate$ -- 1821
+empty$ -- 1792
+format.name$ -- 259
+if$ -- 3920
 int.to.chr$ -- 0
-int.to.str$ -- 48
-missing$ -- 474
-newline$ -- 245
-num.names$ -- 48
-pop$ -- 535
+int.to.str$ -- 50
+missing$ -- 508
+newline$ -- 255
+num.names$ -- 50
+pop$ -- 578
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 157
+skip$ -- 164
 stack$ -- 0
-substring$ -- 1019
-swap$ -- 1136
+substring$ -- 1044
+swap$ -- 1207
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 0
-while$ -- 115
-width$ -- 50
-write$ -- 531
-(There was 1 error message)
+warning$ -- 1
+while$ -- 119
+width$ -- 52
+write$ -- 551
+(There were 2 error messages)
