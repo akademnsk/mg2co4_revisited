@@ -123,24 +123,37 @@ Binck, J.; Laniel, D.; L., B.; Khandarkhaeva, S.; Fedotenko, T.; Aslandukov,
   N.; Dubrovinsky, L.; Winkler, B.
 \newblock Synthesis of calcium orthocarbonate, {C}a$_2${CO}$_4$-{P}nma, at
   p,t-conditions of earth's tramsition zone and lower mantle.
-\newblock \emph{Am. Mineral.} .
+\newblock \emph{Am. Mineral.} \textbf{2021}.
 
 \bibitem{oganov2019}
 Oganov, A.~R.; Pickard, C.~J.; Zhu, Q.; Needs, R.~J.
 \newblock Structure prediction drives materials discovery.
 \newblock \emph{Nature Reviews Materials} \emph{4}, \textbf{2019}, 331--348.
 
-\bibitem{smyth1973}
-Smyth, J.~R.; Hazen, R.~M.
-\newblock The crystal structures of forsterite and hortonolite at several
-  temperatures up to 900 {C}.
-\newblock \emph{American Mineralogist} \emph{58}, \textbf{1973}, 588--593.
-
 \bibitem{kanzaki2019}
 Kanzaki, M.
 \newblock High-pressure phase relations in {Z}n$_2${S}i{O}$_4$ system: {A}
   first-principles study.
 \newblock \emph{arXiv preprint arXiv:1903.05339} \textbf{2019}.
+
+\bibitem{tomioka2021}
+Tomioka, N.; Bindi, L.; Okuchi, T.; Miyahara, M.; Iitaka, T.; Li, Z.; Kawatsu,
+  T.; Xie, X.; Purevjav, N.; Tani, R.; et~al.
+\newblock Poirierite, a dense metastable polymorph of magnesium iron silicate
+  in shocked meteorites.
+\newblock \emph{Communications Earth \& Environment} \emph{2}, \textbf{2021},
+  1--8.
+
+\bibitem{horiuchi1981}
+Horiuchi, H.; Sawamoto, H.
+\newblock $\beta$-{M}g$_2${SiO}$_4$: Single-crystal {X}-ray diffraction study.
+\newblock \emph{American Mineralogist} \emph{66}, \textbf{1981}, 568--575.
+
+\bibitem{smyth1973}
+Smyth, J.~R.; Hazen, R.~M.
+\newblock The crystal structures of forsterite and hortonolite at several
+  temperatures up to 900 {C}.
+\newblock \emph{American Mineralogist} \emph{58}, \textbf{1973}, 588--593.
 
 \bibitem{hawthorne1975}
 Hawthorne, F.~C.; Ferguson, R.~B.
