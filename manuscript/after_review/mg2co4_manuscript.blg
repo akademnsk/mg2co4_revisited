@@ -13,45 +13,45 @@ I was expecting a `,' or a `}'---line 638 of file refs_mg2co4.bib
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
 Warning--empty year in binck2021_ca2co4
-You've used 50 entries,
+You've used 51 entries,
             2159 wiz_defined-function locations,
-            813 strings with 14489 characters,
-and the built_in function-call counts, 18648 in all, are:
-= -- 1215
-> -- 689
+            820 strings with 14828 characters,
+and the built_in function-call counts, 19049 in all, are:
+= -- 1242
+> -- 705
 < -- 1
-+ -- 263
-- -- 213
-* -- 1247
-:= -- 2340
-add.period$ -- 153
-call.type$ -- 50
-change.case$ -- 53
++ -- 269
+- -- 218
+* -- 1275
+:= -- 2390
+add.period$ -- 156
+call.type$ -- 51
+change.case$ -- 54
 chr.to.int$ -- 0
-cite$ -- 51
-duplicate$ -- 1821
-empty$ -- 1792
-format.name$ -- 259
-if$ -- 3920
+cite$ -- 52
+duplicate$ -- 1859
+empty$ -- 1829
+format.name$ -- 265
+if$ -- 4003
 int.to.chr$ -- 0
-int.to.str$ -- 50
-missing$ -- 508
-newline$ -- 255
-num.names$ -- 50
-pop$ -- 578
+int.to.str$ -- 51
+missing$ -- 519
+newline$ -- 260
+num.names$ -- 51
+pop$ -- 590
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 164
+skip$ -- 167
 stack$ -- 0
-substring$ -- 1044
-swap$ -- 1207
+substring$ -- 1069
+swap$ -- 1233
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 1
-while$ -- 119
-width$ -- 52
-write$ -- 551
+while$ -- 122
+width$ -- 53
+write$ -- 562
 (There were 2 error messages)
