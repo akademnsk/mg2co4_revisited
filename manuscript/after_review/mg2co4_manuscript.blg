@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is BibTeX, Version 0.99d (TeX Live 2017)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: mg2co4_manuscript.aux
@@ -55,3 +56,53 @@ while$ -- 122
 width$ -- 53
 write$ -- 562
 (There were 2 error messages)
+=======
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: mg2co4_manuscript.aux
+Reallocating 'name_of_file' (item size: 1) to 4 items.
+The style file: CGD.bst
+Reallocating 'name_of_file' (item size: 1) to 12 items.
+Database file #1: refs_mg2co4.bib
+You've used 52 entries,
+            2159 wiz_defined-function locations,
+            826 strings with 14956 characters,
+and the built_in function-call counts, 19478 in all, are:
+= -- 1265
+> -- 730
+< -- 1
++ -- 278
+- -- 226
+* -- 1303
+:= -- 2448
+add.period$ -- 159
+call.type$ -- 52
+change.case$ -- 55
+chr.to.int$ -- 0
+cite$ -- 52
+duplicate$ -- 1904
+empty$ -- 1866
+format.name$ -- 274
+if$ -- 4094
+int.to.chr$ -- 0
+int.to.str$ -- 52
+missing$ -- 533
+newline$ -- 265
+num.names$ -- 52
+pop$ -- 601
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 169
+stack$ -- 0
+substring$ -- 1078
+swap$ -- 1267
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 124
+width$ -- 54
+write$ -- 574
+>>>>>>> 26c9930ddcbdddd8a0fed8b3daab542e74a42881
