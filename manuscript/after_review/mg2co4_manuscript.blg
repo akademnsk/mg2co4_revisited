@@ -1,108 +1,46 @@
-<<<<<<< HEAD
 This is BibTeX, Version 0.99d (TeX Live 2017)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: mg2co4_manuscript.aux
 The style file: CGD.bst
 Database file #1: refs_mg2co4.bib
-Repeated entry---line 540 of file refs_mg2co4.bib
- : @article{li2020_mgco3
- :                      ,
-I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 638 of file refs_mg2co4.bib
- :   
- :   year={2021}
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-Warning--empty year in binck2021_ca2co4
-You've used 51 entries,
+You've used 53 entries,
             2159 wiz_defined-function locations,
-            820 strings with 14828 characters,
-and the built_in function-call counts, 19049 in all, are:
-= -- 1242
-> -- 705
+            833 strings with 15295 characters,
+and the built_in function-call counts, 19879 in all, are:
+= -- 1292
+> -- 746
 < -- 1
-+ -- 269
-- -- 218
-* -- 1275
-:= -- 2390
-add.period$ -- 156
-call.type$ -- 51
-change.case$ -- 54
++ -- 284
+- -- 231
+* -- 1331
+:= -- 2498
+add.period$ -- 162
+call.type$ -- 53
+change.case$ -- 56
 chr.to.int$ -- 0
-cite$ -- 52
-duplicate$ -- 1859
-empty$ -- 1829
-format.name$ -- 265
-if$ -- 4003
+cite$ -- 53
+duplicate$ -- 1942
+empty$ -- 1903
+format.name$ -- 280
+if$ -- 4177
 int.to.chr$ -- 0
-int.to.str$ -- 51
-missing$ -- 519
-newline$ -- 260
-num.names$ -- 51
-pop$ -- 590
+int.to.str$ -- 53
+missing$ -- 544
+newline$ -- 270
+num.names$ -- 53
+pop$ -- 613
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 167
+skip$ -- 172
 stack$ -- 0
-substring$ -- 1069
-swap$ -- 1233
-text.length$ -- 1
-text.prefix$ -- 0
-top$ -- 0
-type$ -- 0
-warning$ -- 1
-while$ -- 122
-width$ -- 53
-write$ -- 562
-(There were 2 error messages)
-=======
-This is BibTeX, Version 0.99d
-Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
-The top-level auxiliary file: mg2co4_manuscript.aux
-Reallocating 'name_of_file' (item size: 1) to 4 items.
-The style file: CGD.bst
-Reallocating 'name_of_file' (item size: 1) to 12 items.
-Database file #1: refs_mg2co4.bib
-You've used 52 entries,
-            2159 wiz_defined-function locations,
-            826 strings with 14956 characters,
-and the built_in function-call counts, 19478 in all, are:
-= -- 1265
-> -- 730
-< -- 1
-+ -- 278
-- -- 226
-* -- 1303
-:= -- 2448
-add.period$ -- 159
-call.type$ -- 52
-change.case$ -- 55
-chr.to.int$ -- 0
-cite$ -- 52
-duplicate$ -- 1904
-empty$ -- 1866
-format.name$ -- 274
-if$ -- 4094
-int.to.chr$ -- 0
-int.to.str$ -- 52
-missing$ -- 533
-newline$ -- 265
-num.names$ -- 52
-pop$ -- 601
-preamble$ -- 1
-purify$ -- 0
-quote$ -- 0
-skip$ -- 169
-stack$ -- 0
-substring$ -- 1078
-swap$ -- 1267
+substring$ -- 1103
+swap$ -- 1293
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 124
-width$ -- 54
-write$ -- 574
->>>>>>> 26c9930ddcbdddd8a0fed8b3daab542e74a42881
+while$ -- 127
+width$ -- 55
+write$ -- 585

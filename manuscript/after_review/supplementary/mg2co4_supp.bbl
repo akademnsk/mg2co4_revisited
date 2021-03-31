@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{vasp1}
 Kresse, G.; Furthm\"uller, J.
@@ -22,6 +22,11 @@ Perdew, J.~P.; Burke, K.; Ernzerhof, M.
 Togo, A.; Tanaka, I.
 \newblock First principles phonon calculations in materials science.
 \newblock \emph{Scripta Materialia} \emph{108}, \textbf{2015}, 1--5.
+
+\bibitem{z-method}
+Belonoshko, A.~B.; Skorodumova, N.~V.; Rosengren, A.; Johansson, B.
+\newblock Melting and critical superheating.
+\newblock \emph{Physical Review B} \emph{73}, \textbf{2006}, 012201.
 
 \bibitem{hill1952}
 Hill, R.
